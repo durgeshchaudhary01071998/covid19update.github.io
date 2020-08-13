@@ -1,0 +1,5 @@
+.container{
+
+    background-image: url(img/1.jpg);
+    background: linear-gradient(to right, gray, orange);
+}
